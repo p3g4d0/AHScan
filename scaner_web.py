@@ -1,11 +1,7 @@
 import socket
-from colorama import Fore, init
-init()
-
-rojo = Fore.LIGHTRED_EX
 
 print(f"""
-{rojo} ______  __  __      ____                               
+______  __  __      ____                               
 /\  _  \/\ \/\ \    /\  _`\                             
 \ \ \L\ \ \ \_\ \   \ \,\L\_\    ___     __      ___    
  \ \  __ \ \  _  \   \/_\__ \   /'___\ /'__`\  /' _ `\  
